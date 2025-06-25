@@ -1,0 +1,33 @@
+.container{
+    background-color: #d7e7e7;
+    border-radius: 1rem;
+    display: flex;
+    gap: 4rem;
+    height: 30rem;
+    margin: 4rem auto;
+    padding: 4rem;
+    width: 60rem;;
+}
+
+.poster{
+    border: 8px solid #000;
+    box-shadow: 0 24px 32px -16px rgba(0, 0, 0, 0.4);
+}
+
+.container h2{
+    font-size: 1.8rem;
+}
+.container p{
+    margin-top: 10px;
+}
+.container button{
+    background-color: #000;
+    border: 0;
+    color: #fff;
+    padding: 10px;
+    margin-top: 30px;
+    border-radius: 10px;
+    font-size: .9rem;
+    font-weight: bold;
+    letter-spacing: 1.4px;
+}
